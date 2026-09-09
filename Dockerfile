@@ -1,4 +1,4 @@
 
-FROM clamav/clamav:1.4.5
+FROM clamav/clamav:1.4.6
 
 RUN apk upgrade --update --no-cache
